@@ -1,0 +1,10 @@
+{
+	"namespace":"com.xiaofen.record",
+	"type":"record",
+	"name":"User",
+	"fields": [
+		{"name": "id", "type": "string"},
+		{"name": "name",  "type": "string"},
+		{"name": "password", "type": "string"}
+	]
+}
